@@ -91,7 +91,7 @@ There is a test video uploaded in the data/video folder called test.mp4. If you 
 
 #### Webcam Example
 This is a demo of running the object tracker using the above command for running the object tracker on your webcam.
-![Webcam Demo](data/helpers/webcam_demo.gif)
+###![Webcam Demo](data/helpers/webcam_demo.gif)
 
 ## Command Line Args Reference
 ```
